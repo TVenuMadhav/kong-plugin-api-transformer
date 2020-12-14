@@ -2,7 +2,6 @@ package = "tnv-kong-plugin-api-transformer"
 version = "0.1.0-0"
 source = {
   url = "git://github.com/TVenuMadhav/kong-plugin-api-transformer",
-  tag = "0.1.0"
 }
 description = {
   summary = "A Kong plugin that enables elastic request/response transforming by lua scripts",
